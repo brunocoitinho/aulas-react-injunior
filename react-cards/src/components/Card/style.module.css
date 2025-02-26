@@ -1,0 +1,31 @@
+.card{
+    background-color: rgb(200, 252, 222);
+    max-width: 640px;
+    margin: 2rem auto;
+    border-radius: 8px;
+    display: flex;
+    padding: 2rem 1rem;
+}
+
+.card__img{
+    border-radius: 8px;
+    background: url(https://placehold.co/200x200);
+    min-width: 200px;
+    height: 200px;
+}
+
+.card__info{
+    margin-left: 1rem;
+}
+
+.card__info__text{
+    text-align: justify;
+    font-size: .75rem;
+    margin-top: .5rem;
+}
+
+.card__info__data{
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+

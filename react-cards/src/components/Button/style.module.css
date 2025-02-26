@@ -1,0 +1,11 @@
+.button{
+    margin-top: .5rem;
+    padding: .5rem 1rem;
+    font-family: var(--main-font);
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 4px;
+    border-color: transparent;
+}
